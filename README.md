@@ -66,6 +66,10 @@ _NOTE: Top languages does not indicate my skill level or anything like that, it'
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=smrnjeet222&show_icons=true&count_private=true&theme=default&title_color=11ab3a&line_height=26" alt="kunal's github stats" />
 </a>
 -->
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <br />
 <br />
 
