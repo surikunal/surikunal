@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+<br />
 
 <p> A passionate self-taught programmer/developer from <b>INDIA</b>💖. </p>
 
@@ -63,66 +64,8 @@ _NOTE: Top languages does not indicate my skill level or anything like that, it'
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=smrnjeet222&show_icons=true&count_private=true&theme=default&title_color=11ab3a&line_height=26" alt="kunal's github stats" />
 </a>
 
-<a href="https://smrnjeet222.github.io/Python_Apps/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smrnjeet222&repo=Python_Apps&theme=default&title_color=11ab3a" />
-</a>    
-<a href="https://smrnjeet222.github.io/Unity_Gamedevelopment/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smrnjeet222&repo=Unity_Gamedevelopment&theme=default&title_color=11ab3a" />
-</a>
-
 <br />
 <br />
-
-<!--START_SECTION:waka-->
-**I'm a night 🦉** 
-
-```text
-🌞 Morning    36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.05% 
-🌆 Daytime    218 commits    █████████░░░░░░░░░░░░░░░░   36.64% 
-🌃 Evening    198 commits    ████████░░░░░░░░░░░░░░░░░   33.28% 
-🌙 Night      143 commits    ██████░░░░░░░░░░░░░░░░░░░   24.03%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-💬 Languages: 
-Python                   9 hrs 12 mins       ████████████░░░░░░░░░░░░░   50.75% 
-JavaScript               5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.85% 
-HTML                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.96% 
-C++                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.62% 
-Git Config               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
-
-🐱‍💻 Projects: 
-Web_Prototypes           6 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   34.51% 
-Python_Apps              6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.94% 
-PathfindingVisualizatins 2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
-Coursera                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
-AutoMail                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
-
-💻 Operating Systems: 
-Windows                  12 hrs 14 mins      ████████████████░░░░░░░░░   67.49% 
-Linux                    5 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.51%
-
-```
-
-**I mostly code in Java** 
-
-```text
-C++          4 repos        ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Python       4 repos        ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-CSS          3 repos        ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-HTML         2 repos        ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-JavaScript   2 repos        ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-C#           1 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-```
-
-
-
-<!--END_SECTION:waka-->
 
 <p align="center"> 
   Visitor count<br>
