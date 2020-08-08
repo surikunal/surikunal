@@ -59,10 +59,10 @@ _NOTE: Top languages does not indicate my skill level or anything like that, it'
 
 <!--<a href="https://gitstats.me/surikunal">Here is my full git stats history</a>-->
 <a href="https://gitstats.me/surikunal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surikunal&count_private=true&theme=default&title_color=11ab3a&hide=HLSL,html" />
-</a>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surikunal&count_private=true&theme=default&title_color=11ab3a&hide=HLSL,html" />
+</a> -->
 <a href="https://gitstats.me/surikunal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=surikunal&show_icons=true&count_private=true&theme=default&title_color=11ab3a&line_height=26" alt="kunal's github stats" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=surikunal&show_icons=true&count_private=true&theme=default&title_color=11ab3a&line_height=26" alt="kunal's github stats" /> -->
 </a>
 
 <!--START_SECTION:waka-->
