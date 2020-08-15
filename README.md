@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p> A passionate self-taught programmer/developer from <b>INDIA</b>💖. </p>
 
-- 🔭 I’m currently working on my [Portofolio](https://surikunal.github.io/portofolio_test_1/)
+- 🔭 I’m currently working on my [Portofolio](https://surikunal.github.io/myPortofolio/)
 - 🌱 I’m currently learning [Javascript](https://www.freecodecamp.org/learn/)
 - 💬 Ask me about anything [here](https://github.com/surikunal/surikunal/issues)
 
