@@ -66,7 +66,7 @@ _NOTE: Top languages does not indicate my skill level or anything like that, it'
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-126-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
 **🐱 My Github Data** 
 
