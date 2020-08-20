@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 <p> A passionate self-taught programmer/developer from <b>INDIA</b>💖. </p>
 
-- 🔭 I’m currently working on my [Portofolio](https://surikunal.github.io/myPortofolio/)
+- 🔭 I’m currently working on some beautify projects like 
+      [my portofolio](https://surikunal.github.io/myPortofolio/) || [face expression detector](https://surikunal.github.io/face_detector_api/) || [instagram automation](https://github.com/surikunal/instagram-automation) || [tic tac toe](https://surikunal.github.io/Tic_Tac_Toe/) || [meditation app](https://surikunal.github.io/meditation-app/)
 - 🌱 I’m currently learning [Javascript](https://www.freecodecamp.org/learn/)
 - 💬 Ask me about anything [here](https://github.com/surikunal/surikunal/issues)
 
