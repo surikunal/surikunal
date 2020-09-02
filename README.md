@@ -35,9 +35,14 @@ Here are some ideas to get you started:
 <br />
 
 <p> A passionate self-taught programmer/developer from <b>INDIA</b>💖. </p>
-
+ 
 - 🔭 I’m currently working on some beautify projects like 
-      [my portofolio](https://surikunal.github.io/myPortofolio/) || [Todo list](https://surikunal.github.io/todo_list/) || [face expression detector](https://surikunal.github.io/face_detector_api/) || [instagram automation](https://github.com/surikunal/instagram-automation) || [tic tac toe](https://surikunal.github.io/Tic_Tac_Toe/) || [meditation app](https://surikunal.github.io/meditation-app/)
+   - [my portofolio](https://surikunal.github.io/myPortofolio/) 
+   - [Todo list](https://surikunal.github.io/todo_list/) 
+   - [face expression detector](https://surikunal.github.io/face_detector_api/)
+   - [instagram automation](https://github.com/surikunal/instagram-automation)
+   - [tic tac toe](https://surikunal.github.io/Tic_Tac_Toe/)
+   - [meditation app](https://surikunal.github.io/meditation-app/)
 - 🌱 I’m currently learning [Javascript](https://www.freecodecamp.org/learn/)
 - 💬 Ask me about anything [here](https://github.com/surikunal/surikunal/issues)
 
@@ -59,7 +64,7 @@ Here are some ideas to get you started:
 _NOTE: Top languages does not indicate my skill level or anything like that, it's just github metric of which languages i have the most code on github._
 
 <!--<a href="https://gitstats.me/surikunal">Here is my full git stats history</a>-->
-<a href="https://gitstats.me/surikunal">
+<a href="https://gitstats.me/surikunal"> 
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surikunal&count_private=true&theme=default&title_color=11ab3a&hide=HLSL,html" />
 </a> -->
 <a href="https://gitstats.me/surikunal">
