@@ -44,6 +44,8 @@ Here are some ideas to get you started:
    - [tic tac toe](https://surikunal.github.io/Tic_Tac_Toe/)
    - [meditation app](https://surikunal.github.io/meditation-app/)
    - [Password Generator](https://surikunal.github.io/password_generator/)
+   - [Github Profile](https://surikunal.github.io/Github-Profile/)
+   - [Birthday Timer](https://surikunal.github.io/Birthday-Timer/)
 - 🌱 I’m currently learning [Javascript](https://www.freecodecamp.org/learn/)
 - 💬 Ask me about anything [here](https://github.com/surikunal/surikunal/issues)
 
