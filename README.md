@@ -47,6 +47,8 @@ Here are some ideas to get you started:
    - [Password Generator](https://surikunal.github.io/password_generator/)
    - [Github Profile](https://surikunal.github.io/Github-Profile/)
    - [Birthday Timer](https://surikunal.github.io/Birthday-Timer/)
+   - [Drawing App](https://surikunal.github.io/drawing-app/)
+   - [Quiz App](https://surikunal.github.io/quiz-app/)
 - 🌱 I’m currently learning [Javascript](https://www.freecodecamp.org/learn/)
 - 💬 Ask me about anything [here](https://github.com/surikunal/surikunal/issues)
 
