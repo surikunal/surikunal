@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <p> A passionate self-taught programmer/developer from <b>INDIA</b>💖. </p>
  
 - 🔭 I’m currently working on some beautify projects like 
+   - [weather app with react](https://angry-sammet-46b95e.netlify.app/)
    - [my portofolio](https://surikunal.github.io/Portofolio/)
    - [Todo list](https://surikunal.github.io/todo_list/) 
    - [face expression detector](https://surikunal.github.io/face_detector_api/)
