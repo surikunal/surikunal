@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm Kunal Suri! 👋
-# [Portfolio](https://surikunal.github.io/Portofolio/)
+# [Portfolio](https://surikunal.github.io/Portfolio/)
 
 <img align="right" width="300px" src="https://github.com/surikunal/surikunal/blob/master/ba602813-0d23-4a78-9f44-469d439282d8.webp">
 
