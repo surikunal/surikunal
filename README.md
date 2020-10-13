@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align="right" width="300px" src="https://github.com/surikunal/surikunal/blob/master/ba602813-0d23-4a78-9f44-469d439282d8.webp">
 
-<a href="https://surikunal.github.io/portofolio_test_1/">
+<a href="https://surikunal.github.io/Portfolio/">
   <img align="left" alt="website" width="48px" src="https://github.com/surikunal/surikunal/blob/master/ba602813-0d23-4a78-9f44-469d439282d8.webp" />
 </a>
 <a href="https://twitter.com/kunalSu43374790">
