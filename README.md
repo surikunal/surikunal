@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <p> A passionate self-taught programmer/developer from <b>INDIA</b>💖. </p>
  
-- 🔭 I’m currently working on some beautify projects like 
+- 🔭 I’m currently working on some interesting projects like 
    - [weather app with react](https://angry-sammet-46b95e.netlify.app/)
    - [Hangman Game](https://surikunal.github.io/Hangman_Game_Javascript/)
    - [my portofolio](https://surikunal.github.io/Portofolio/)
