@@ -80,17 +80,17 @@ _NOTE: Top languages does not indicate my skill level or anything like that, it'
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 378 Contributions in the Year 2020
+> 🏆 380 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories
+> 📜 38 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
@@ -147,11 +147,11 @@ Windows                  12 hrs 46 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ████████████░░░░░░░░░░░░░   48.15% 
-CSS                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
+JavaScript               13 repos            ███████████░░░░░░░░░░░░░░   46.43% 
+CSS                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
 
 ```
 
