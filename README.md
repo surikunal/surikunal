@@ -90,9 +90,9 @@ _NOTE: Top languages does not indicate my skill level or anything like that, it'
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories
+> 📜 38 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+38 Private Repository 
  > 
 **I'm a Night 🦉** 
 
