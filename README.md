@@ -84,15 +84,15 @@ _NOTE: Top languages does not indicate my skill level or anything like that, it'
 
 **🐱 My Github Data** 
 
-> 🏆 408 Contributions in the Year 2020
+> 🏆 414 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
-38 Private Repository 
+39 Private Repository 
  > 
 **I'm a Night 🦉** 
 
