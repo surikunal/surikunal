@@ -92,7 +92,7 @@ _NOTE: Top languages does not indicate my skill level or anything like that, it'
  > 
 > 📜 39 Public Repositories 
  > 
-39 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
