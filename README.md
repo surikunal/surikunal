@@ -84,7 +84,7 @@ _NOTE: Top languages does not indicate my skill level or anything like that, it'
 
 **🐱 My Github Data** 
 
-> 🏆 9 Contributions in the Year 2021
+> 🏆 12 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
