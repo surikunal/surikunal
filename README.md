@@ -81,11 +81,11 @@ _NOTE: Top languages does not indicate my skill level or anything like that, it'
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 25 Contributions in the Year 2021
+> 🏆 26 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
