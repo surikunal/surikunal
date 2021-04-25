@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/kunalsuri__/?hl=en">
   <img align="left" alt="itch.io" width="40px" src="https://pluspng.com/img-png/instagram-png-instagram-png-logo-1455.png" />
 </a>
-<a href="https://leetcode.com/surikunal28/">
+<a href="https://leetcode.com/kunalsuri/">
   <img align="left" alt="leetCode" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2KJ34dO3Vp7rp1UHEo4eO8VAFNoHKLI9mrw&usqp=CAU" />
 </a>
 
