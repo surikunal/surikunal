@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [Javascript](https://www.freecodecamp.org/learn/)
 - 💬 Ask me about anything [here](https://github.com/surikunal/surikunal/issues)
 
-**Languages and Tools:**
+<!-- **Languages and Tools:**
 
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuGQPhcXzjhpoYEY0EYU_UUNB0tBdC7A_Anw&usqp=CAU" title="Java"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/javascript.png" title="Javascript"></code>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/vscode.png" title="VsCode"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/mysql.svg" title="Databases"></code>
 
-<br />
+<br /> -->
 
 _NOTE: Top languages does not indicate my skill level or anything like that, it's just github metric of which languages i have the most code on github._
 
