@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 ### Hi there, I'm Kunal Suri! 👋
 # [Portfolio](https://surikunal.github.io/Portfolio/)
 
+## Coding Profiles
+- [LeetCode](https://leetcode.com/kunalsuri/)
+- [CodeChef](https://www.codechef.com/users/kunal_suri)
+
 <img align="right" width="300px" src="https://github.com/surikunal/surikunal/blob/master/ba602813-0d23-4a78-9f44-469d439282d8.webp">
 
 <a href="https://surikunal.github.io/Portfolio/">
