@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 ### Hi there, I'm Kunal Suri! 👋
 # [Portfolio](https://surikunal.github.io/Portfolio/)
 
+## Resume
+- [Resume](https://docs.google.com/document/d/1b9ES9pGBSaNPpGGCfVKlyeDbUI6KGCI7txztA5oqWRs/edit?usp=sharing)
+
 ## Coding Profiles
 - [LeetCode](https://leetcode.com/kunalsuri/)
 - [CodeChef](https://www.codechef.com/users/kunal_suri)
