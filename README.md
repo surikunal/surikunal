@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 # [Portfolio](https://surikunal.github.io/Portfolio/)
 
 ## Resume
-- [Resume](https://docs.google.com/document/d/1b9ES9pGBSaNPpGGCfVKlyeDbUI6KGCI7txztA5oqWRs/edit?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1Jy8gj1sJE8XYFNax36AOr6i1zheGFCr-/view?usp=sharing)
 
 ## Coding Profiles
 - [LeetCode](https://leetcode.com/kunalsuri/)
 - [CodeChef](https://www.codechef.com/users/kunal_suri)
+- [Linkedin](https://www.linkedin.com/in/surikunal28/)
 
 <img align="right" width="300px" src="https://github.com/surikunal/surikunal/blob/master/ba602813-0d23-4a78-9f44-469d439282d8.webp">
 
