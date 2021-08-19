@@ -49,7 +49,7 @@ Here are some ideas to get you started:
    - [Amazon Clone App](https://surikunal.github.io/Amazon_clone/)
    - [weather app with react](https://angry-sammet-46b95e.netlify.app/)
    - [Hangman Game](https://surikunal.github.io/Hangman_Game_Javascript/)
-   - [my portofolio](https://surikunal.github.io/Portofolio/)
+   - [my portofolio](https://surikunal.github.io/Portfolio/)
    - [Todo list](https://surikunal.github.io/todo_list/) 
    - [face expression detector](https://surikunal.github.io/face_detector_api/)
    - [instagram automation](https://github.com/surikunal/instagram-automation)
