@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # [Portfolio](https://surikunal.github.io/Portfolio/)
 
 ## Resume
-- [Resume](https://drive.google.com/file/d/1yVil59ajDGSfI1ur8TsnM9yKdUtlNE2W/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1P05y58STTTBEKtDjQnB_X3kh_G_aU675/view?usp=sharing)
 
 ## Coding Profiles
 - [LeetCode](https://leetcode.com/kunalsuri/)
